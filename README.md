@@ -124,3 +124,15 @@ Author
 Damilare
 
 Aspiring Data Analyst | Excel | SQL | Power BI
+
+Project Screenshots
+
+The following screenshots highlight selected stages of the healthcare data cleaning process.
+
+1. Raw Healthcare Dataset
+
+2. Data Cleaning and Standardization
+
+3. INDEX-MATCH Lookup
+
+4. Final Cleaned Dataset
