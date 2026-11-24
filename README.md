@@ -130,9 +130,15 @@ Project Screenshots
 The following screenshots highlight selected stages of the healthcare data cleaning process.
 
 1. Raw Healthcare Dataset
+   Screenshots/Raw Dataset.png
+   Screenshots/Raw Dataset2.png
 
 2. Data Cleaning and Standardization
+   Screenshots/Cleaned Healthcare Dataset.png
 
 3. INDEX-MATCH Lookup
+   Screenshots/Cleaned Healthcare Dataset index-match.png
 
 4. Final Cleaned Dataset
+   Screenshots/Cleaned Healthcare Dataset.png
+   Screenshots/Cleaned Healthcare Dataset 2.png
